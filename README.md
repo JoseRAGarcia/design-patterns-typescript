@@ -1,0 +1,1 @@
+# Curso de Padrões de Projeto - Design Patterns (GoF)
